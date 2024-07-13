@@ -3,7 +3,7 @@
 
 # PodNexus
 
-![App Image](zephyrCast-preview.png)
+![App Image](logo.svg)
 
 PodNexus is a cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion using multi-voice AI, podcast thumbnail image generation, and seamless playback. This repository contains the source code for the PodNexus application.
 
